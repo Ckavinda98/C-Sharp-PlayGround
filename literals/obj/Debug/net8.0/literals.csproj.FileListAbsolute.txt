@@ -1,0 +1,14 @@
+E:\C#-PlayGround\literals\bin\Debug\net8.0\literals.exe
+E:\C#-PlayGround\literals\bin\Debug\net8.0\literals.deps.json
+E:\C#-PlayGround\literals\bin\Debug\net8.0\literals.runtimeconfig.json
+E:\C#-PlayGround\literals\bin\Debug\net8.0\literals.dll
+E:\C#-PlayGround\literals\bin\Debug\net8.0\literals.pdb
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.AssemblyInfoInputs.cache
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.AssemblyInfo.cs
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.dll
+E:\C#-PlayGround\literals\obj\Debug\net8.0\refint\literals.dll
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.pdb
+E:\C#-PlayGround\literals\obj\Debug\net8.0\literals.genruntimeconfig.cache
+E:\C#-PlayGround\literals\obj\Debug\net8.0\ref\literals.dll
