@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\string\bin\Debug\net8.0\string.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\string\bin\Debug\net8.0\string.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\string\bin\Debug\net8.0\string.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\string\bin\Debug\net8.0\string.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\string\bin\Debug\net8.0\string.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\refint\string.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\string.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\string\obj\Debug\net8.0\ref\string.dll
