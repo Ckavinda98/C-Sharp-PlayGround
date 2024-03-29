@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\bin\Debug\net8.0\condition.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\bin\Debug\net8.0\condition.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\bin\Debug\net8.0\condition.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\bin\Debug\net8.0\condition.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\bin\Debug\net8.0\condition.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\refint\condition.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\condition.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\condition\obj\Debug\net8.0\ref\condition.dll
