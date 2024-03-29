@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\bin\Debug\net8.0\foreachloop.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\bin\Debug\net8.0\foreachloop.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\bin\Debug\net8.0\foreachloop.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\bin\Debug\net8.0\foreachloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\bin\Debug\net8.0\foreachloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\refint\foreachloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\foreachloop.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\foreachloop\obj\Debug\net8.0\ref\foreachloop.dll
