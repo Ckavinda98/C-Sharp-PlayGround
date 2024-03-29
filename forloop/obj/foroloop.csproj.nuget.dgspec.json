@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\literals.csproj": {}
+    "E:\\C#-PlayGround\\C-Sharp-PlayGround\\forloop\\foroloop.csproj": {}
   },
   "projects": {
-    "e:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\literals.csproj": {
+    "E:\\C#-PlayGround\\C-Sharp-PlayGround\\forloop\\foroloop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\literals.csproj",
-        "projectName": "literals",
-        "projectPath": "e:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\literals.csproj",
+        "projectUniqueName": "E:\\C#-PlayGround\\C-Sharp-PlayGround\\forloop\\foroloop.csproj",
+        "projectName": "foroloop",
+        "projectPath": "E:\\C#-PlayGround\\C-Sharp-PlayGround\\forloop\\foroloop.csproj",
         "packagesPath": "C:\\Users\\Mical_SSD\\.nuget\\packages\\",
-        "outputPath": "e:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\obj\\",
+        "outputPath": "E:\\C#-PlayGround\\C-Sharp-PlayGround\\forloop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

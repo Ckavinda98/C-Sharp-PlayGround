@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\bin\Debug\net8.0\foroloop.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\bin\Debug\net8.0\foroloop.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\bin\Debug\net8.0\foroloop.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\bin\Debug\net8.0\foroloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\bin\Debug\net8.0\foroloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\refint\foroloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\foroloop.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\forloop\obj\Debug\net8.0\ref\foroloop.dll
