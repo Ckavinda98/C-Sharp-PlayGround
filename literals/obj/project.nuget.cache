@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6RJh3N8FWpzocvQ2NcTPEkF3/QEzk1k0SYCQeuDCEWUFQR3tcUJruECToIilIaX4Fp1mtsUeqye+q/ZLkZbFRg==",
+  "dgSpecHash": "p8OJhRqxvRdS6J4ykmXX6e7jPa44Adg08ST8jyXPPPc5qOcYhhwlZOt1jF6w+N/+kAi2AxTGeqBO2/ca7oXVuw==",
   "success": true,
-  "projectFilePath": "E:\\C#-PlayGround\\literals\\literals.csproj",
+  "projectFilePath": "E:\\C#-PlayGround\\C-Sharp-PlayGround\\literals\\literals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\bin\Debug\net8.0\variables.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\bin\Debug\net8.0\variables.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\bin\Debug\net8.0\variables.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\bin\Debug\net8.0\variables.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\bin\Debug\net8.0\variables.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\refint\variables.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\variables\obj\Debug\net8.0\ref\variables.dll
