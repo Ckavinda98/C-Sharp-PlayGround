@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\bin\Debug\net8.0\whilelopp.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\bin\Debug\net8.0\whilelopp.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\bin\Debug\net8.0\whilelopp.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\bin\Debug\net8.0\whilelopp.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\bin\Debug\net8.0\whilelopp.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\refint\whilelopp.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\whilelopp.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whilelopp\obj\Debug\net8.0\ref\whilelopp.dll
