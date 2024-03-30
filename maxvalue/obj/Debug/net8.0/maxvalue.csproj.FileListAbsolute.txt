@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\bin\Debug\net8.0\maxvalue.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\bin\Debug\net8.0\maxvalue.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\bin\Debug\net8.0\maxvalue.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\bin\Debug\net8.0\maxvalue.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\bin\Debug\net8.0\maxvalue.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\refint\maxvalue.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\maxvalue.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\maxvalue\obj\Debug\net8.0\ref\maxvalue.dll
