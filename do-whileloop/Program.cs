@@ -5,9 +5,14 @@ int index = 1;
 
 do
 {
-    roll = random.Next(1, 7);
-    roll++;
-    Console.WriteLine($"Get the value of role - {roll} time that run loop - {index}");
-    index++;
+    roll = random.Next(1, 11);
     
-} while(roll !=2);
+    if (roll >= 9) break;
+    // if (roll != 9) continue;
+    
+        Console.WriteLine($"Get the value of role - {roll} time that run loop - {index}");
+        index++;
+    
+    
+    
+} while(roll !=7);
