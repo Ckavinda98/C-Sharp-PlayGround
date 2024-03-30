@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\bin\Debug\net8.0\do-whileloop.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\bin\Debug\net8.0\do-whileloop.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\bin\Debug\net8.0\do-whileloop.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\bin\Debug\net8.0\do-whileloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\bin\Debug\net8.0\do-whileloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\refint\do-whileloop.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\do-whileloop.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\do-whileloop\obj\Debug\net8.0\ref\do-whileloop.dll
