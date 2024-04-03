@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\bin\Debug\net8.0\typePattern.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\bin\Debug\net8.0\typePattern.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\bin\Debug\net8.0\typePattern.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\bin\Debug\net8.0\typePattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\bin\Debug\net8.0\typePattern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\refint\typePattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\typePattern.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\typePattern\obj\Debug\net8.0\ref\typePattern.dll
