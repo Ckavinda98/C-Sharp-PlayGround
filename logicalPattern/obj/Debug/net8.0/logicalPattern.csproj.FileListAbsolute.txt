@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\bin\Debug\net8.0\logicalPattern.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\bin\Debug\net8.0\logicalPattern.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\bin\Debug\net8.0\logicalPattern.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\bin\Debug\net8.0\logicalPattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\bin\Debug\net8.0\logicalPattern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\refint\logicalPattern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\logicalPattern.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\logicalPattern\obj\Debug\net8.0\ref\logicalPattern.dll
