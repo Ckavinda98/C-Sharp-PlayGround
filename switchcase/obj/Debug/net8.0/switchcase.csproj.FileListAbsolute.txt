@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\bin\Debug\net8.0\switchcase.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\bin\Debug\net8.0\switchcase.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\bin\Debug\net8.0\switchcase.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\bin\Debug\net8.0\switchcase.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\bin\Debug\net8.0\switchcase.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\refint\switchcase.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\switchcase.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\switchcase\obj\Debug\net8.0\ref\switchcase.dll
