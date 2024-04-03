@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\bin\Debug\net8.0\patternMatching.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\bin\Debug\net8.0\patternMatching.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\bin\Debug\net8.0\patternMatching.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\bin\Debug\net8.0\patternMatching.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\bin\Debug\net8.0\patternMatching.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\refint\patternMatching.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\patternMatching.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\patternMatching\obj\Debug\net8.0\ref\patternMatching.dll
