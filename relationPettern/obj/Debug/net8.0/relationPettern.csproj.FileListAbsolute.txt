@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\bin\Debug\net8.0\relationPettern.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\bin\Debug\net8.0\relationPettern.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\bin\Debug\net8.0\relationPettern.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\bin\Debug\net8.0\relationPettern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\bin\Debug\net8.0\relationPettern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\refint\relationPettern.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\relationPettern.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\relationPettern\obj\Debug\net8.0\ref\relationPettern.dll
