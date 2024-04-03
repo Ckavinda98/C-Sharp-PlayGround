@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\bin\Debug\net8.0\whenGurads.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\bin\Debug\net8.0\whenGurads.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\bin\Debug\net8.0\whenGurads.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\bin\Debug\net8.0\whenGurads.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\bin\Debug\net8.0\whenGurads.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\refint\whenGurads.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\whenGurads.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\whenGurads\obj\Debug\net8.0\ref\whenGurads.dll
