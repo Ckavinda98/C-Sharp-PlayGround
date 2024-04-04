@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\bin\Debug\net8.0\oopInheritence.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\bin\Debug\net8.0\oopInheritence.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\bin\Debug\net8.0\oopInheritence.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\bin\Debug\net8.0\oopInheritence.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\bin\Debug\net8.0\oopInheritence.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\refint\oopInheritence.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\oopInheritence.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopInheritence\obj\Debug\net8.0\ref\oopInheritence.dll
