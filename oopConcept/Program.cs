@@ -14,6 +14,5 @@ Console.WriteLine("----------------------------------------------");
 Console.WriteLine(account.GetAccountHistory());
 
 
-Console.WriteLine($"Your Current Balance is : {account.Balance}");
 
 
