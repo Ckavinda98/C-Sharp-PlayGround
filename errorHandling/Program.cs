@@ -1,28 +1,28 @@
 ﻿using errorHandling.Models;
-// Console.WriteLine(DevidebyNumber(6, 0));
+Console.WriteLine(DevidebyNumber(6, 0));
 
-// decimal DevidebyNumber(int num1, int num2)
-// {
-//     decimal answer = 0; 
-//     try
-//     {
-//        answer = num1 / num2;
-//     }
+decimal DevidebyNumber(int num1, int num2)
+{
+    decimal answer = 0; 
+    try
+    {
+       answer = num1 / num2;
+    }
 
-//     catch(DivideByZeroException ex)
-//     {
-//         Console.WriteLine(ex.Message);
-//         Console.WriteLine($"Devid Number Cannot be a Zero , {ex.Message}");
+    catch(DivideByZeroException ex)
+    {
+        Console.WriteLine(ex.Message);
+        Console.WriteLine($"Devid Number Cannot be a Zero , {ex.Message}");
 
-//     }
+    }
 
-//     catch(Exception ex)
-//     {
-//         Console.WriteLine(ex.Message);
-//     }
+    catch(Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+    }
 
-//     return answer; 
-// }
+    return answer; 
+}
 
 var mical = new Employee();
 mical.Name = "Mical";
