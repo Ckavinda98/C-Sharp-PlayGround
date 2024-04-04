@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\bin\Debug\net8.0\classProperties.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\bin\Debug\net8.0\classProperties.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\bin\Debug\net8.0\classProperties.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\bin\Debug\net8.0\classProperties.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\bin\Debug\net8.0\classProperties.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\refint\classProperties.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\classProperties.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\classProperties\obj\Debug\net8.0\ref\classProperties.dll
