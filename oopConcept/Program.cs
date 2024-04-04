@@ -1,7 +1,6 @@
 ﻿using oopConcept;
 
 BankAccount account = new BankAccount("Mical Mical", 50000);
-BankAccount account2 = new BankAccount("Kevin Kevin", 70000);
 
 
 account.MakeDeposit(80000, DateTime.Now, "Lottery Price");
@@ -14,5 +13,6 @@ Console.WriteLine("----------------------------------------------");
 Console.WriteLine(account.GetAccountHistory());
 
 
+Console.WriteLine($"Your Current Balance is :{account.Balance}");
 
 
