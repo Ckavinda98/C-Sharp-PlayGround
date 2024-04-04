@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\bin\Debug\net8.0\oopConcept.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\bin\Debug\net8.0\oopConcept.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\bin\Debug\net8.0\oopConcept.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\bin\Debug\net8.0\oopConcept.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\bin\Debug\net8.0\oopConcept.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\refint\oopConcept.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\oopConcept.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\oopConcept\obj\Debug\net8.0\ref\oopConcept.dll
