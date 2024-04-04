@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\bin\Debug\net8.0\recordes.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\bin\Debug\net8.0\recordes.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\bin\Debug\net8.0\recordes.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\bin\Debug\net8.0\recordes.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\bin\Debug\net8.0\recordes.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\refint\recordes.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\recordes.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\recordes\obj\Debug\net8.0\ref\recordes.dll
