@@ -1,0 +1,15 @@
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\bin\Debug\net8.0\errorHandling.exe
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\bin\Debug\net8.0\errorHandling.deps.json
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\bin\Debug\net8.0\errorHandling.runtimeconfig.json
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\bin\Debug\net8.0\errorHandling.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\bin\Debug\net8.0\errorHandling.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.AssemblyInfoInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.AssemblyInfo.cs
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.csproj.CoreCompileInputs.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.sourcelink.json
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\refint\errorHandling.dll
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.pdb
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\errorHandling.genruntimeconfig.cache
+E:\C#-PlayGround\C-Sharp-PlayGround\errorHandling\obj\Debug\net8.0\ref\errorHandling.dll
